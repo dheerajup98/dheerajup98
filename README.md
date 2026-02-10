@@ -44,8 +44,8 @@ src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-
 ---
 
 ### 📫 How to Reach Me
-- 📧 Email: **dheerajup98@gmail.com**
-- 💼 LinkedIn:  
+- 📧 Email: **dheerajup0198@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/dheerajup98/** 
 <a href="https://linkedin.com/in/dheerajup98" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
